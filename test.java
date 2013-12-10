@@ -20,6 +20,7 @@ class parent{
 	public int num = 1;
 	public parent(){
 		System.out.println("init patent");
+		System.out.println("changed at 0900");
 	}
 	public void Test(){
 		System.out.println("parent's funtion");
