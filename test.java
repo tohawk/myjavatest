@@ -24,5 +24,6 @@ class parent{
 	}
 	public void Test(){
 		System.out.println("parent's funtion");
+		System.out.println("changed for branch");
 	}
 }
