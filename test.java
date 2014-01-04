@@ -26,3 +26,8 @@ class parent{
 		System.out.println("parent's funtion");
 	}
 }
+/*
+ *	test for git ***
+ *
+ *
+ */
