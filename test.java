@@ -32,3 +32,4 @@ class parent{
  *	learning from Git历险记(一)
  *
  */
+/* test to last line*/
