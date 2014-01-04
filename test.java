@@ -28,6 +28,7 @@ class parent{
 }
 /*
  *	test for git ***
- *
+ *	test for git,too
+ *	learning from Git历险记(一)
  *
  */
